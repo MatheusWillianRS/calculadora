@@ -7,7 +7,7 @@ cor1 = "#1e1f1e" #preto
 cor2 = "#feffff" #branco
 cor3 = "#38576b" #azul
 cor4 = "#ECEFF1" #cinza claro
-cor5 = "#FFAB40" #laranja
+cor5 = "#6B0787" #roxo
 
 #janela
 janela =Tk()
